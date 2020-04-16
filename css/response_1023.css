@@ -1198,6 +1198,7 @@
 
     .three_photo .photo .img1 {
         border-radius: 0;
+        height: 400px;
     }
 
     .three_photo .photo .img2 {
@@ -1416,7 +1417,10 @@
         padding-right: 0;
     }
 
-
+    
+    #thanks .icon img{width:125px;}
+    #thanks .title{font-size:28px;line-height:36px;}
+    #thanks .desc{font-size:24px;line-height:30px;}
 
 
     /*---------------

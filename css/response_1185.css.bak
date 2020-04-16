@@ -952,7 +952,7 @@
         background-size: 100%;
     }
 
-    #thanks .title{font-size:32px;line-height:40px;margin-top:5px;}
+     #thanks .title{font-size:32px;line-height:40px;margin-top:5px;}
     #thanks .desc{font-size:28px;line-height:36px;margin-top:10px;}
 
 

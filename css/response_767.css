@@ -1281,6 +1281,20 @@
          margin-bottom: 40px; 
     }
 
+
+    #thanks .title{font-size:25px;line-height:31px;}
+    #thanks .desc{font-size:21px;line-height:29px;}
+
+
+
+    .modal{
+        padding: 25px;
+    }
+
+    .cart_info .product .price.total{
+        text-align: left;
+    }
+
     /*---------------
         PopUp
     ---------------*/

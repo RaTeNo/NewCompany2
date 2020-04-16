@@ -372,6 +372,18 @@
 			Ваш браузер устарел рекомендуем обновить его до последней версии<br> или использовать другой более современный.
 		</div>
 
+		<section class="modal" id="thanks">
+			<div class="icon">
+				<svg width="82" height="82" viewBox="0 0 82 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M41 0C18.368 0 0 18.368 0 41C0 63.632 18.368 82 41 82C63.632 82 82 63.632 82 41C82 18.368 63.632 0 41 0ZM41 73.8C22.919 73.8 8.2 59.081 8.2 41C8.2 22.919 22.919 8.2 41 8.2C59.081 8.2 73.8 22.919 73.8 41C73.8 59.081 59.081 73.8 41 73.8ZM32.8 49.897L56.908 25.789C58.507 24.19 61.131 24.19 62.73 25.789C64.329 27.388 64.329 29.971 62.73 31.57L35.711 58.589C34.112 60.188 31.529 60.188 29.93 58.589L19.311 47.97C17.712 46.371 17.712 43.788 19.311 42.189C20.91 40.59 23.493 40.59 25.092 42.189L32.8 49.897Z" fill="white"></path>
+				</svg>
+			</div>
+
+			<div class="title">Спасибо за <span>Заказ</span></div>
+
+			<div class="desc">Мы перезвоним вам в течении рабочего времени</div>
+		</section>
+
 
 		<!-- Подключение javascript файлов -->
 		<script src="js/jquery-3.4.1.min.js"></script>
@@ -387,5 +399,13 @@
 		<script src="js/before-after.min.js"></script>
 		<script src="js/functions.js"></script>
 		<script src="js/scripts.js"></script>
+
+		<script>
+			$.fancybox.open({
+				src  : '#thanks',
+				type : 'inline',
+				touch : false
+			})
+		</script>
 	</body>
 </html>
