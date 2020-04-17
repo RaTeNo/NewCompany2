@@ -1495,7 +1495,7 @@ header .menu .flexMenu-popup .item>a.touch_link+.sub_menu.show {
 
 .mob_header .logo img {
     display: block;
-
+    max-height: 100px;
     max-width: 180px;
 }
 
@@ -3019,7 +3019,7 @@ aside>*:last-child {
     background: rgba(0, 0, 0, .53) url(../images/ic_video_play.svg) 50% no-repeat;
 }
 
-.video_reviews .review iframe {
+.video_reviews .review img {
     position: absolute;
     z-index: 1;
     top: 5px;
@@ -4192,7 +4192,7 @@ aside>*:last-child {
 
     content: '';
 
-    background: url(../images/ic_soc2.svg);
+    background: url(../images/vk.svg);
     background-size:100%;
 }
 
@@ -4206,7 +4206,8 @@ aside>*:last-child {
 
     content: '';
 
-    background: url(../images/inst.svg);
+    background: url(../images/ic_soc2.svg);
+    background-size:100%;
 }
 
 .soc_block2:after {
@@ -7422,3 +7423,7 @@ footer .links a {
 #thanks .title{color:#0b162b;font-size:37px;font-weight:bold;line-height:61px;margin-top:10px;}
 #thanks  .title span{   color: var(--main_color1);}
 #thanks .desc{color:#b5b5b5;font-size:33px;font-weight:500;line-height:49px;margin-top:10px;}
+
+#app{
+    height: 100%;
+}

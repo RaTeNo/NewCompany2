@@ -560,8 +560,8 @@
     }
 
     .soc_block .widget {
-        margin-right: -15px;
-        margin-left: -15px;
+        margin: 0 auto;
+        width: auto;
     }
 
 

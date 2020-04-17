@@ -230,21 +230,24 @@
 	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/vers2/css/response_767.css",
-		"/C/xampp/htdocs/vers2/index2.html",
 		"/C/xampp/htdocs/vers2/css/styles.css",
+		"/C/xampp/htdocs/vers2/index.html",
 		"/C/xampp/htdocs/vers2/css/response_479.css",
+		"/C/xampp/htdocs/vers2/css/response_767.css",
+		"/C/xampp/htdocs/vers/index.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 2.php",
+		"/C/xampp/htdocs/vers2/index2.html",
 		"/C/xampp/htdocs/vers2/css/response_1185.css",
 		"/C/xampp/htdocs/vers2/css/response_1023.css",
 		"/C/xampp/htdocs/vers2/checkout.html",
-		"/C/xampp/htdocs/vers2/index.html",
 		"/C/xampp/htdocs/vers2/js/scripts.js",
 		"/C/xampp/htdocs/vers/css/response_479.css",
 		"/C/xampp/htdocs/vers/css/response_767.css",
 		"/C/xampp/htdocs/vers/css/response_1023.css",
 		"/C/xampp/htdocs/vers/css/response_1185.css",
 		"/C/xampp/htdocs/vers/css/styles.css",
-		"/C/xampp/htdocs/vers/index.html",
 		"/C/xampp/htdocs/vers2/index5.php",
 		"/C/xampp/htdocs/vers2/js/file.js",
 		"/C/xampp/htdocs/vers2/index5.html",
@@ -253,7 +256,6 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/robots.txt",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles 2.css",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style 2.css",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 2.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single 2.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/content.css",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page 2.php",
@@ -269,7 +271,6 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/404.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-map.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 2.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles 3.css",
 		"/C/xampp/htdocs/vers2/js/functions.js",
 		"/C/xampp/htdocs/vers2/category.html",
@@ -327,7 +328,6 @@
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/index.php",
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/footer.php",
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/functions.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/scripts.js",
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/js2/scripts.js",
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/index.html",
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/page-gallery.php",
@@ -375,6 +375,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"видео",
+			"soc",
 			".three_photo .photo .img1"
 		],
 		"highlight": true,
@@ -473,7 +475,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\vers\\project1.sublime-project"
+				"C:\\xampp\\htdocs\\vers3\\project3.sublime-project"
 			]
 		],
 		"width": 380.0

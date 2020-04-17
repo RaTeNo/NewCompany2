@@ -598,37 +598,37 @@
 						<div class="slider owl-carousel">
 							<div class="slide">
 								<a href="https://www.youtube.com/watch?v=60VYXd9RVJ0" data-fancybox class="review">
-									<img data-src="images/tmp/video_review_thumb.jpg" alt="" class="lozad">
+									<iframe data-src="https://www.youtube.com/embed/_sI_Ps7JSEk" frameborder="0" allowfullscreen="" class="lozad"></iframe>
 								</a>
 							</div>
 
 							<div class="slide">
 								<a href="https://www.youtube.com/watch?v=60VYXd9RVJ0" data-fancybox class="review">
-									<img data-src="images/tmp/video_review_thumb.jpg" alt="" class="lozad">
+									<iframe data-src="https://www.youtube.com/embed/_sI_Ps7JSEk" frameborder="0" allowfullscreen="" class="lozad"></iframe>
 								</a>
 							</div>
 
 							<div class="slide">
 								<a href="https://www.youtube.com/watch?v=60VYXd9RVJ0" data-fancybox class="review">
-									<img data-src="images/tmp/video_review_thumb.jpg" alt="" class="lozad">
+									<iframe data-src="https://www.youtube.com/embed/_sI_Ps7JSEk" frameborder="0" allowfullscreen="" class="lozad"></iframe>
 								</a>
 							</div>
 
 							<div class="slide">
 								<a href="https://www.youtube.com/watch?v=60VYXd9RVJ0" data-fancybox class="review">
-									<img data-src="images/tmp/video_review_thumb.jpg" alt="" class="lozad">
+									<iframe data-src="https://www.youtube.com/embed/_sI_Ps7JSEk" frameborder="0" allowfullscreen="" class="lozad"></iframe>
 								</a>
 							</div>
 
 							<div class="slide">
 								<a href="https://www.youtube.com/watch?v=60VYXd9RVJ0" data-fancybox class="review">
-									<img data-src="images/tmp/video_review_thumb.jpg" alt="" class="lozad">
+									<iframe data-src="https://www.youtube.com/embed/_sI_Ps7JSEk" frameborder="0" allowfullscreen="" class="lozad"></iframe>
 								</a>
 							</div>
 
 							<div class="slide">
 								<a href="https://www.youtube.com/watch?v=60VYXd9RVJ0" data-fancybox class="review">
-									<img data-src="images/tmp/video_review_thumb.jpg" alt="" class="lozad">
+									<iframe data-src="https://www.youtube.com/embed/_sI_Ps7JSEk" frameborder="0" allowfullscreen="" class="lozad"></iframe>
 								</a>
 							</div>
 						</div>
@@ -1395,7 +1395,7 @@
 						<div class="widget">
 							<div id="vk_groups"></div>
 							<script type="text/javascript">
-							VK.Widgets.Group("vk_groups", {mode: 4, width: "320", height: "490"}, 121203589);
+							VK.Widgets.Group("vk_groups", {mode: 4, width: "330", height: "490"}, 121203589);
 							</script>
 						</div>
 
@@ -1407,7 +1407,7 @@
 					<div class="cont">
 
 						<div class="widget">
-							<iframe src="https://averin.pro/widget.php?l=alfasiterus&style=1&width=320&gallery=1&s=80&icc=4&icr=3&t=1&tt=Мы в Инстаграм&h=1&ttcolor=FFFFFF&th=c3c3c3&bw=f9f9f9&bscolor=FFFFFF&bs=FF0000&ts=Подписаться" allowtransparency="true" frameborder="0" scrolling="no"></iframe>
+							<iframe src="https://averin.pro/widget.php?l=alfasiterus&style=1&width=330&gallery=1&s=80&icc=4&icr=3&t=1&tt=Мы в Инстаграм&h=1&ttcolor=FFFFFF&th=c3c3c3&bw=f9f9f9&bscolor=FFFFFF&bs=FF0000&ts=Подписаться" allowtransparency="true" frameborder="0" scrolling="no"></iframe>
 						</div>
 
 
