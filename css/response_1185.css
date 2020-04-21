@@ -17,6 +17,9 @@
     .block {
         margin-bottom: 90px;
     }
+    .new_bg + .block:not(.new_bg){
+        margin-top: 90px;
+    }
 
 
     .block_head {

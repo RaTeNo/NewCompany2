@@ -10,6 +10,7 @@ $(function(){
 	        '<svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M41.3824 21C41.3824 32.2569 32.2569 41.3824 21 41.3824C9.74314 41.3824 0.617647 32.2569 0.617647 21C0.617647 9.74314 9.74314 0.617647 21 0.617647C32.2569 0.617647 41.3824 9.74314 41.3824 21Z" fill="" stroke="#FD7147" stroke-width="1.23529"/><path d="M12.3535 22.2354H26.1517L20.1235 28.2636C19.6417 28.7454 19.6417 29.5359 20.1235 30.0177C20.6052 30.4995 21.3835 30.4995 21.8652 30.0177L30.0058 21.8771C30.4876 21.3954 30.4876 20.6171 30.0058 20.1354L21.8776 11.9824C21.3958 11.5007 20.6176 11.5007 20.1358 11.9824C19.654 12.4642 19.654 13.2424 20.1358 13.7242L26.1517 19.7648H12.3535C11.674 19.7648 11.1182 20.3207 11.1182 21.0001C11.1182 21.6795 11.674 22.2354 12.3535 22.2354Z" fill="#FD7147"/></svg> <span>СЛЕДУЮЩИЕ</span>'
 	        
 	    ],
+	    autoHeight:true,
 		loop: true,
 		smartSpeed: 750,
 		autoplay: true,
@@ -536,6 +537,9 @@ $(function(){
     });
 
 
+
+
+
 	if($('.mob_header .socials a').length>4)
 	{
 		$(".mob_header .socials a").eq(2).after($('<a href="/" class="more"><img src="./images/dot2.svg" alt=""><div class="arrow"><svg width="9" height="5" viewBox="0 0 9 5" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 5L0 0L9 0L4.5 5Z" fill=""/></svg></div><div class="more_block"></div></a>'));
@@ -556,6 +560,37 @@ $(function(){
 	$('body').on('click', '.mob_header a.more', function(e) {
     	e.preventDefault()
     });
+
+
+	// Социальная выпадашка
+	$('header .socials a.more, .mob_header .socials a.more').click(function(e){
+		e.preventDefault()
+		if($(this).hasClass("active"))
+		{
+			$(this).removeClass("active")
+		}
+		else
+		{
+			$(this).addClass("active")
+		}
+		
+	})
+	
+
+	$('.products_sort_mobile .schema-order__link').click(function(e){
+		e.preventDefault()	
+		if($(this).hasClass("active"))
+		{
+			$(this).removeClass("active");
+			$(".schema-order__popover").hide();
+		}	
+		else
+		{
+			$(this).addClass("active");
+			$(".schema-order__popover").show();
+		}
+
+	})
 	
 
 

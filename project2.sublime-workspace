@@ -230,19 +230,23 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/vers2/category.html",
+		"/C/xampp/htdocs/vers2/js/scripts.js",
+		"/C/xampp/htdocs/vers2/css/response_767.css",
 		"/C/xampp/htdocs/vers2/css/styles.css",
 		"/C/xampp/htdocs/vers2/index.html",
+		"/C/xampp/htdocs/vers2/index3.html",
+		"/C/xampp/htdocs/vers2/product.html",
+		"/C/xampp/htdocs/vers2/css/response_1185.css",
+		"/C/xampp/htdocs/vers2/css/response_1023.css",
 		"/C/xampp/htdocs/vers2/css/response_479.css",
-		"/C/xampp/htdocs/vers2/css/response_767.css",
+		"/C/xampp/htdocs/vers2/index8.html",
 		"/C/xampp/htdocs/vers/index.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 2.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/scripts.js",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 2.php",
 		"/C/xampp/htdocs/vers2/index2.html",
-		"/C/xampp/htdocs/vers2/css/response_1185.css",
-		"/C/xampp/htdocs/vers2/css/response_1023.css",
 		"/C/xampp/htdocs/vers2/checkout.html",
-		"/C/xampp/htdocs/vers2/js/scripts.js",
 		"/C/xampp/htdocs/vers/css/response_479.css",
 		"/C/xampp/htdocs/vers/css/response_767.css",
 		"/C/xampp/htdocs/vers/css/response_1023.css",
@@ -252,7 +256,6 @@
 		"/C/xampp/htdocs/vers2/js/file.js",
 		"/C/xampp/htdocs/vers2/index5.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/Rar$DRa23108.4111/multiple-file-uploader/dist/index.html",
-		"/C/xampp/htdocs/vers2/product.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/robots.txt",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles 2.css",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style 2.css",
@@ -273,7 +276,6 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-map.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles 3.css",
 		"/C/xampp/htdocs/vers2/js/functions.js",
-		"/C/xampp/htdocs/vers2/category.html",
 		"/C/xampp/htdocs/vers2/news.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style.css",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions.php",
@@ -315,7 +317,6 @@
 		"/C/xampp/htdocs/vers2/index4.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/config-tayniymir.com.php",
 		"/C/xampp/htdocs/temp.css",
-		"/C/xampp/htdocs/vers2/index3.html",
 		"/C/xampp/htdocs/vers/cart.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/common.js",
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/page.php",
@@ -356,8 +357,7 @@
 		"/E/xampp/htdocs/noname/wp-content/themes/raten — копия/css/content.css",
 		"/E/xampp/htdocs/noname/wp-content/themes/raten — копия/css/font.css",
 		"/C/Users/RaTeN/Downloads/Shape.svg",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-calc.php",
-		"/C/xampp/htdocs/vers2/js/nice-select.js"
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-calc.php"
 	],
 	"find":
 	{
@@ -375,6 +375,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".socials a.more",
+			"Социальная выпадашка",
+			"gray",
+			"no_margin",
 			"видео",
 			"soc",
 			".three_photo .photo .img1"
@@ -385,6 +389,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -406,7 +411,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 43.0
 	},
 	"layout":
 	{
@@ -455,7 +460,7 @@
 	"project": "project2.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 90.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -475,7 +480,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\vers3\\project3.sublime-project"
+				"C:\\xampp\\htdocs\\vers\\project1.sublime-project"
 			]
 		],
 		"width": 380.0
