@@ -653,6 +653,7 @@
 
     .contacts_info .info .item {
         padding-left: 80px;
+        min-height: auto;
     }
 
     .contacts_info .info .icon {
@@ -836,8 +837,8 @@
     }
     #thanks .title{font-size:22px;line-height:28px;}
     #thanks .desc{font-size:18px;line-height:24px;}
-
-
+    
+    
     /*---------------
         PopUp
     ---------------*/

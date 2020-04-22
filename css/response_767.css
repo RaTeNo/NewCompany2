@@ -1311,6 +1311,27 @@
         display: block;
     }
 
+    .first_section .info{
+        z-index: 6;
+    }
+    .first_section .img{
+        z-index: 2;
+    }
+    .first_section .img:after{
+        background: linear-gradient(260.88deg, rgba(0, 0, 0, 0) 15.76%, #000000 88.63%);
+        width: 100%;
+        content: "";
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        -webkit-mask-position: center;
+        -webkit-mask-size: contain;
+        mask: url(../images/svg_bg_1.svg);
+        -webkit-mask-box-image: url(../images/svg_bg_1.svg);        
+    }
+
 
     /*---------------
         PopUp
