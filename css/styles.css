@@ -4432,7 +4432,7 @@ aside>*:last-child {
     line-height: 23px;
 
     width: calc(100% - 178px);
-
+        word-break: break-word;
     letter-spacing: .28px;
 }
 
@@ -7569,4 +7569,20 @@ footer .links a {
     .main_slider3 .slide {
         background: none !important;
     }
+}
+
+
+
+.main_slider .owl-carousel .owl-stage{display: flex;}
+.main_slider .slide{
+    display: flex;
+    flex: 1 0 auto;
+    height: 100%;
+}
+.main_slider .slide .cont {
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
 }

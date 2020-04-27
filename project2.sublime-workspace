@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"fore",
+				"forecast"
+			],
+			[
 				"p",
 				"padding\tproperty"
 			],
@@ -230,24 +234,49 @@
 	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/vers2/css/response_479.css",
 		"/C/xampp/htdocs/vers2/css/styles.css",
+		"/C/xampp/htdocs/vers2/css/response_1185.css",
+		"/C/xampp/htdocs/vers2/js/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category-27.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/author.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/sidebar.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-feed.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-new.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-prognoz.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/scripts.js",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/css2/styles.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-home.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/related_posts.php",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/strategies.html",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/+bonus.html",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/forecast.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single-forecast.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/related_posts2.php",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/capper.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/taxonomy-forecasts.php",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/page-test.php",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/page-home.php",
+		"/C/xampp/htdocs/vers2/css/response_479.css",
 		"/C/xampp/htdocs/bonus/wp-content/themes/raten2/css/styles.css",
 		"/C/xampp/htdocs/bonus/wp-content/themes/raten2/index.html",
 		"/C/xampp/htdocs/vers2/index5.html",
 		"/C/xampp/htdocs/vers2/css/response_767.css",
 		"/C/xampp/htdocs/vers2/css/response_1023.css",
-		"/C/xampp/htdocs/vers2/css/response_1185.css",
 		"/C/xampp/htdocs/vers/index5.html",
 		"/C/xampp/htdocs/vers2/category.html",
-		"/C/xampp/htdocs/vers2/js/scripts.js",
 		"/C/xampp/htdocs/vers2/index.html",
 		"/C/xampp/htdocs/vers2/index3.html",
 		"/C/xampp/htdocs/vers2/product.html",
 		"/C/xampp/htdocs/vers2/index8.html",
 		"/C/xampp/htdocs/vers/index.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 2.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/scripts.js",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 2.php",
 		"/C/xampp/htdocs/vers2/index2.html",
 		"/C/xampp/htdocs/vers2/checkout.html",
@@ -274,21 +303,14 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-contacts.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-rate.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-about.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/404.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-map.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles 3.css",
 		"/C/xampp/htdocs/vers2/js/functions.js",
 		"/C/xampp/htdocs/vers2/news.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style.css",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/comments.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/search.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles.css",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header.php",
 		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (4)/Новая папка/stylesheet.css",
 		"/C/xampp/htdocs/vers2/css/owl.carousel.css",
 		"/C/xampp/htdocs/vers2/css/styles — копия.css",
@@ -339,25 +361,7 @@
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/page-map.php",
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/story.html",
 		"/C/xampp/htdocs/vers/news.html",
-		"/C/xampp/htdocs/vers/gallery.html",
-		"/E/Работа 2020/Март/БОЛЬШОАЙ/C моими правками ГОТОВЫЙ/demo3.braiteck.ru/gallery.html",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index 2.html",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/.htaccess 2",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/Partner 4.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/Partner 3.php",
-		"/C/xampp/htdocs/ob/OrderBro-NoCode/ob/protected/models/Partner.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/Bill.php",
-		"/C/xampp/htdocs/ob/OrderBro-NoCode/ob/protected/controllers/NotifyController.php",
-		"/C/xampp/htdocs/ob/OrderBro-NoCode/ob/protected/controllers/CartorderController.php",
-		"/C/xampp/htdocs/ob/OrderBro-NoCode/ob/protected/controllers/NlController.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/.htaccess",
-		"/C/xampp/htdocs/vers2/gallery.html",
-		"/C/xampp/htdocs/vers2/contacts.html",
-		"/C/xampp/htdocs/vers2/checkout_success.html",
-		"/C/xampp/htdocs/vers/category.html",
-		"/E/Работа 2020/Март/БОЛЬШОАЙ/C моими правками ГОТОВЫЙ/demo3.braiteck.ru/category.html",
-		"/E/xampp/htdocs/noname/wp-content/themes/raten — копия/+case_two.html",
-		"/E/xampp/htdocs/noname/wp-content/themes/raten — копия/css/content.css"
+		"/C/xampp/htdocs/vers/gallery.html"
 	],
 	"find":
 	{
@@ -375,6 +379,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"add",
+			"knopka",
+			"<?php the_field(\"name1\"); ?> - <?php the_field(\"name1\"); ?>",
+			"active",
 			".gallery .flex",
 			".contacts_info .info .item",
 			"main_slider3",
@@ -393,6 +401,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"<?php the_field(\"name1\"); ?> - <?php the_field(\"name2\"); ?>",
 			""
 		],
 		"reverse": false,
@@ -484,7 +493,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\vers3\\project3.sublime-project"
+				"C:\\xampp\\htdocs\\vers\\project1.sublime-project"
 			]
 		],
 		"width": 380.0
