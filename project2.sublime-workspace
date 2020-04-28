@@ -234,7 +234,13 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/vers2/index.html",
 		"/C/xampp/htdocs/vers2/css/styles.css",
+		"/C/xampp/htdocs/vers2/contacts.html",
+		"/C/xampp/htdocs/vers2/index2.html",
+		"/C/xampp/htdocs/vers2/index5.html",
+		"/C/xampp/htdocs/vers2/index3.html",
+		"/C/xampp/htdocs/vers2/index4.html",
 		"/C/xampp/htdocs/vers2/css/response_1185.css",
 		"/C/xampp/htdocs/vers2/js/scripts.js",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category-27.php",
@@ -266,19 +272,15 @@
 		"/C/xampp/htdocs/vers2/css/response_479.css",
 		"/C/xampp/htdocs/bonus/wp-content/themes/raten2/css/styles.css",
 		"/C/xampp/htdocs/bonus/wp-content/themes/raten2/index.html",
-		"/C/xampp/htdocs/vers2/index5.html",
 		"/C/xampp/htdocs/vers2/css/response_767.css",
 		"/C/xampp/htdocs/vers2/css/response_1023.css",
 		"/C/xampp/htdocs/vers/index5.html",
 		"/C/xampp/htdocs/vers2/category.html",
-		"/C/xampp/htdocs/vers2/index.html",
-		"/C/xampp/htdocs/vers2/index3.html",
 		"/C/xampp/htdocs/vers2/product.html",
 		"/C/xampp/htdocs/vers2/index8.html",
 		"/C/xampp/htdocs/vers/index.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 2.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 2.php",
-		"/C/xampp/htdocs/vers2/index2.html",
 		"/C/xampp/htdocs/vers2/checkout.html",
 		"/C/xampp/htdocs/vers/css/response_479.css",
 		"/C/xampp/htdocs/vers/css/response_767.css",
@@ -339,7 +341,6 @@
 		"/C/xampp/htdocs/vers/js/scripts.js",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/scripts 2.js",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index.html",
-		"/C/xampp/htdocs/vers2/index4.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/config-tayniymir.com.php",
 		"/C/xampp/htdocs/temp.css",
 		"/C/xampp/htdocs/vers/cart.html",
@@ -360,12 +361,11 @@
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/gallery.html",
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/page-map.php",
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/story.html",
-		"/C/xampp/htdocs/vers/news.html",
-		"/C/xampp/htdocs/vers/gallery.html"
+		"/C/xampp/htdocs/vers/news.html"
 	],
 	"find":
 	{
-		"height": 48.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
