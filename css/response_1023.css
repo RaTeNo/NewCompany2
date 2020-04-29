@@ -1239,8 +1239,8 @@
     .socials_block .socials a{
         margin-bottom:10px;
     }
-    .socials_block .socials a+a {
-        margin-left: 15px;
+    .socials_block .socials a {
+        margin: 0 10px 10px;
     }
 
     .socials_block .socials img {
@@ -1422,7 +1422,9 @@
     #thanks .title{font-size:28px;line-height:36px;}
     #thanks .desc{font-size:24px;line-height:30px;}
 
-
+    .soc_block2 .cont:after, .soc_block .cont:after{
+        display: bone;
+    }
     /*---------------
         Footer
     ---------------*/

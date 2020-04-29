@@ -234,8 +234,14 @@
 	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/vers2/index.html",
+		"/C/xampp/htdocs/vers2/css/response_479.css",
+		"/C/xampp/htdocs/vers2/css/response_1023.css",
 		"/C/xampp/htdocs/vers2/css/styles.css",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/megakassa_703fd6f1980f.txt",
+		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (8)/i2.svg",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/wp-config.php",
+		"/C/xampp/htdocs/vers2/index.html",
 		"/C/xampp/htdocs/vers2/contacts.html",
 		"/C/xampp/htdocs/vers2/index2.html",
 		"/C/xampp/htdocs/vers2/index5.html",
@@ -269,11 +275,9 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/taxonomy-forecasts.php",
 		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/page-test.php",
 		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/page-home.php",
-		"/C/xampp/htdocs/vers2/css/response_479.css",
 		"/C/xampp/htdocs/bonus/wp-content/themes/raten2/css/styles.css",
 		"/C/xampp/htdocs/bonus/wp-content/themes/raten2/index.html",
 		"/C/xampp/htdocs/vers2/css/response_767.css",
-		"/C/xampp/htdocs/vers2/css/response_1023.css",
 		"/C/xampp/htdocs/vers/index5.html",
 		"/C/xampp/htdocs/vers2/category.html",
 		"/C/xampp/htdocs/vers2/product.html",
@@ -357,15 +361,11 @@
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/functions.php",
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/js2/scripts.js",
 		"/C/xampp/htdocs/photo/wp-content/themes/raten/index.html",
-		"/C/xampp/htdocs/photo/wp-content/themes/raten/page-gallery.php",
-		"/C/xampp/htdocs/photo/wp-content/themes/raten/gallery.html",
-		"/C/xampp/htdocs/photo/wp-content/themes/raten/page-map.php",
-		"/C/xampp/htdocs/photo/wp-content/themes/raten/story.html",
-		"/C/xampp/htdocs/vers/news.html"
+		"/C/xampp/htdocs/photo/wp-content/themes/raten/page-gallery.php"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 48.0
 	},
 	"find_in_files":
 	{
@@ -379,6 +379,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".socials_block .socials a+a",
+			"00528b",
 			"add",
 			"knopka",
 			"<?php the_field(\"name1\"); ?> - <?php the_field(\"name1\"); ?>",
@@ -401,6 +403,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"fff",
 			"<?php the_field(\"name1\"); ?> - <?php the_field(\"name2\"); ?>",
 			""
 		],
