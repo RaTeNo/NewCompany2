@@ -807,7 +807,9 @@
 
     .services .service {}
 
-    .services .service .info {}
+    .services .service .info {    
+        flex-wrap: wrap;
+    }
 
     .services .service .name {
         font-size: 15px;
@@ -819,6 +821,7 @@
     .services .service .link {
         width: 100%;
         margin-top: 10px;
+        margin-left:0;
     }
 
     .upload .cont {

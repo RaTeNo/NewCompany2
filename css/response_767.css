@@ -900,7 +900,7 @@
 
     .soc_block .widget {
         margin: 0 auto;
-        width: auto;
+        width: 100%;
 
         order: 3;
     }
