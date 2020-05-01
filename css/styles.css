@@ -260,8 +260,13 @@ body.lock {
 }
 
 .new_bg + .block:not(.new_bg){
-    margin-top:120px;
+    margin-top:80px;
 }
+
+.block:not(.new_bg) {
+    margin-top: 80px;
+}
+
 /*.block:not(.white) + .block, .block:not(.gray) + .block{
     margin-top:0px;
 }*/

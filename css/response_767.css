@@ -583,9 +583,9 @@
     }
 
     .main_slider2 .img {
-        width: calc(100%);
-        height: auto;
-        margin: 40px 20px 40px;
+        width: 450px;
+        height: 480px;
+        margin: 0 auto 30px;
 
         order: -1;
     }
