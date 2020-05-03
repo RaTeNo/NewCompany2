@@ -370,7 +370,7 @@
 
 
     .main_slider3 .img {
-        margin-left: 0;
+        
     }
 
     .main_slider3 .img:before {
@@ -379,7 +379,7 @@
     }
 
     .main_slider3 .owl-dots {
-        left: 180px;
+       /* left: 180px;*/
     }
 
 
@@ -838,7 +838,14 @@
     #thanks .title{font-size:22px;line-height:28px;}
     #thanks .desc{font-size:18px;line-height:24px;}
     
+    .main_slider3 .owl-carousel .owl-nav button.owl-next, .main_slider3 .owl-carousel .owl-nav button.owl-prev{
+        width: 30px;
+        margin: 0;
+    }
     
+    .main_slider3 .owl-carousel .owl-nav button.owl-prev{
+        margin-left: -34px;
+    }
     /*---------------
         PopUp
     ---------------*/

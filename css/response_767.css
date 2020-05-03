@@ -599,9 +599,9 @@
 
     .main_slider3 .info {
         line-height: 21px;
-
+        
         max-width: 100%;
-        padding-right: 0;
+        padding: 0 0 120px 0;
     }
 
     .main_slider3 .info .title {
@@ -615,12 +615,8 @@
     }
 
     .main_slider3 .img {
-        display: none;
-
-        margin-top: 65px;
-        margin-left: 30px;
-
-        order: 3;
+        order: -1;
+            margin: 30px auto 35px;
     }
 
     .main_slider3 .owl-dots {
@@ -633,6 +629,10 @@
         /*top: auto;
         bottom: 12px;*/
     }
+    .main_slider3 .slide{
+        align-items: flex-start;
+    }
+    
 
 
 

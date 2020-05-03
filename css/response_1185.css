@@ -961,13 +961,17 @@
     .main_slider3 .cont
     {
 
-        background: linear-gradient(90deg, rgba(40, 46, 73, 0.9) 20%, #282E49 80%);
+        /*background: linear-gradient(90deg, rgba(40, 46, 73, 0.9) 20%, #282E49 80%);*/
     }
     #thanks .title{font-size:32px;line-height:40px;margin-top:5px;}
     #thanks .desc{font-size:28px;line-height:36px;margin-top:10px;}
 
     .main_slider3 .img img{
-        display: none;
+        /*display: none;*/
+    }
+
+    .main_slider3 .slide{
+        background: none !important;
     }
 
 
