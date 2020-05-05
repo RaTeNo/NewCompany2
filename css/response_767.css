@@ -883,7 +883,7 @@
     }
 
     .soc_block2 {
-        padding-top: 0 !important;
+        
     }
 
     .soc_block .info {
@@ -1146,7 +1146,7 @@
 
     .products .flex.mob_slider {
         display: block;
-        overflow: auto;
+        overflow: visible;
 
         margin-right: -30px;
         margin-bottom: 0;

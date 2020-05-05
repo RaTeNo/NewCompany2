@@ -1681,7 +1681,7 @@ aside {
 
 aside .block {
     margin-bottom: 32px !important;
-
+    margin-top: 0 !important;
     border-radius: 3px;
     background: #fff;
     box-shadow: 0 13px 29px rgba(0, 0, 0, .0758304), inset 0 7px 0 var(--main_color1);
@@ -4735,7 +4735,6 @@ aside>*:last-child {
     position: relative;
 
     display: block;
-    overflow: hidden;
 
     padding: 20px;
 
