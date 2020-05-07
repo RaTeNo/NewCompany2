@@ -1422,7 +1422,7 @@
     #thanks .desc{font-size:24px;line-height:30px;}
 
     .soc_block2 .cont:after, .soc_block .cont:after{
-        display: bone;
+        display: none;
     }
     /*---------------
         Footer
