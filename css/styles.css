@@ -6582,7 +6582,7 @@ button:disabled {
     padding: 40px 50px;
 
     border-radius: 18px;
-    background: var(--main_color_opacity);
+    background: var(--main_color2);
 
     justify-content: space-between;
     align-items: flex-start;
