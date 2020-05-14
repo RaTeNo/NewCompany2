@@ -7744,3 +7744,10 @@ aside .submit .reset i:after {
     background: var(--main_color2);
     margin-left:20px;
 }
+
+
+@-moz-document url-prefix()
+{
+    .first_section .img > * { mask:none; }
+    .first_section.block.new_bg{margin-bottom: 0;}
+}
