@@ -7751,3 +7751,10 @@ aside .submit .reset i:after {
     .first_section .img > * { mask:none; }
     .first_section.block.new_bg{margin-bottom: 0;}
 }
+
+.poll .desc{
+    overflow-x: auto;
+}
+.poll .desc table{
+    width: 100% !important;
+}
