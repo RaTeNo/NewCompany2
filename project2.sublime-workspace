@@ -188,7 +188,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 76111,
+				"buffer_size": 77206,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -486,7 +486,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -502,8 +502,8 @@
 						"selection":
 						[
 							[
-								23189,
-								23189
+								22960,
+								22960
 							]
 						],
 						"settings":
@@ -515,24 +515,24 @@
 								{
 									"1":
 									[
-										23188,
-										23189
+										22960,
+										22961
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										23107,
-										23108
+										22946,
+										22947
 									]
 								},
 								"unmatched":
@@ -605,10 +605,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 20923.0,
+						"translation.y": 20986.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -617,15 +617,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 76111,
+						"buffer_size": 77206,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1884,
-								1884
+								7205,
+								7205
 							]
 						],
 						"settings":
@@ -638,24 +638,24 @@
 								{
 									"1":
 									[
-										1883,
-										1884
+										7201,
+										7204
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										1870,
-										1871
+										5769,
+										5772
 									]
 								},
 								"unmatched":
@@ -727,10 +727,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2520.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -1025,7 +1025,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\vers5\\project5.sublime-project"
+				"C:\\xampp\\htdocs\\vers_black\\project_black_1.sublime-project"
 			]
 		],
 		"width": 380.0
