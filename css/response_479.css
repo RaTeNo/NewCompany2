@@ -243,8 +243,8 @@
 
 
     .product_info .image {
-        width: calc(100% - 140px);
-        padding-bottom: calc(100% - 140px);
+        width: calc(100%);
+        padding-bottom: calc(100%);
 
         border-radius: 3px;
     }
@@ -850,4 +850,10 @@
     /*---------------
         PopUp
     ---------------*/
+
+    .product_info .buy .back_link{
+        font-size:15px;
+    }
+
+   
 }

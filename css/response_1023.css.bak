@@ -1481,7 +1481,7 @@
 
 
     .products_category .img img{
-
+        border-radius: 30px;
     }
 
     .products_category .info .name{
