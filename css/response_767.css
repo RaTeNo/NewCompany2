@@ -515,6 +515,7 @@
 
         height: 44px;
         padding: 15px 15px;
+        float: right;
     }
 
 
@@ -670,8 +671,16 @@
     }
 
     .about .img {
-        display: none;
-        /*margin: 35px auto 0;*/
+        display: block;
+        margin: 35px auto 0;
+        height: 400px;
+        order: -1;
+        width: 100%;
+    }
+
+    .about .img>*{
+        position: relative;
+        width: 100%;
     }
 
 
@@ -688,10 +697,18 @@
         line-height: 23px;
     }
 
-    .how_we_work .img {
-        display: none;
 
+    .how_we_work .img {
+        display: block;
         margin: 35px auto 0;
+        height: 400px;
+        order: -1;
+        width: 100%;
+    }
+
+    .how_we_work .img>*{
+        position: relative;
+        width: 100%;
     }
 
 
@@ -795,9 +812,16 @@
     }
 
     .director_letter .img {
-        display: none;
-
+        display: block;
         margin: 35px auto 0;
+        height: 400px;
+        order: -1;
+        width: 100%;
+    }
+
+    .director_letter .img>*{
+        position: relative;
+        width: 100%;
     }
 
 
@@ -1098,10 +1122,18 @@
         line-height: 27px;
     }
 
-    .quiz_poll .img {
-        display: none;
 
+    .quiz_poll .img {
+        display: block;
         margin: 35px auto 0;
+        height: 400px;
+        order: -1;
+        width: 100%;
+    }
+
+    .quiz_poll .img>*{
+        position: relative;
+        width: 100%;
     }
 
     .quiz_poll .info {
