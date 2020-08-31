@@ -888,6 +888,20 @@ $(function(){
 	    buildContactButton(config);
 	}
 
+	$('.tab_filter_title').click(function(e){
+		e.preventDefault()	
+		if($(this).hasClass("active"))
+		{
+			$(this).removeClass("active");
+			$(this).next().slideUp();
+		}	
+		else
+		{
+			$(this).addClass("active");
+			$(this).next().slideDown();
+		}
+
+	})
 
 
 
