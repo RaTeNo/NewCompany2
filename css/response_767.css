@@ -1429,4 +1429,8 @@
         width: calc(50% - 23px);
     }
 
+    .upload  .agree label a{
+        color:#fff;
+    }
+
 }
